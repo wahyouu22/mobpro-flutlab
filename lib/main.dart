@@ -1,14 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:flutterapp/column_widget.dart';
-import 'package:flutterapp/form_matakuliah.dart';
-import 'package:flutterapp/halaman_kedua2.dart';
-import 'package:flutterapp/hello_world.dart';
-import 'package:flutterapp/mahasiswa_form.dart';
+//import './column_row.dart';
+//import './Halaman_pertama.dart';
+//import './contoh_stateless.dart'; //pertemuan 6
+// import './contoh_stateful.dart'; //pertemuan 6
+//import './mahasiswa_form.dart'; // pertemuan 7
+//import './form_matkul.dart'; //tugas pertemuan ke 7
+// pertemuan 8 uts //
 import 'package:flutterapp/pages/welcome/welcome_page.dart';
-import 'package:flutterapp/parsing_kolom.dart';
-import 'package:flutterapp/row_widget.dart';
-import 'package:flutterapp/widget/card_widget.dart';
-
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
